@@ -40,20 +40,20 @@ To run this application locally, follow these steps:
 1. Clone the repository:
    git clone https://github.com/yourusername/olympic-data-analysis-webapp.git
    cd olympic-data-analysis-webapp
-   ```
+   
 
 2. Create a virtual environment:
    python3 -m venv venv
    source venv/bin/activate
-   ```
+
 
 3. Install the dependencies:
    pip install -r requirements.txt
-   ```
+
 
 4. Run the Streamlit app:
    streamlit run app.py
-   ```
+   
 
 ## Usage
 
@@ -63,9 +63,6 @@ Once the app is running, you can navigate through the different sections using t
 
 We welcome contributions to improve the Olympic Data Analysis Web App. If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
